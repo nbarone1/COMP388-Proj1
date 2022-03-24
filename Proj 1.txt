@@ -1,0 +1,3 @@
+https://github.com/vipul79321/Handwritten-Equation-Solver
+https://www.kaggle.com/xainano/handwrittenmathsymbols
+https://vipul-gupta73921.medium.com/handwritten-equation-solver-using-convolutional-neural-network-a44acc0bd9f8
